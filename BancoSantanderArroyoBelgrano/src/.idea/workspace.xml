@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c82f42e-2bb8-4fda-b1a5-e72e2e9b3708" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BancoSantanderArroyoBelgrano/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BancoSantanderArroyoBelgrano/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b867c364-a29a-4da8-b33e-7d9fe4182ef1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,17 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="8" />
-    <option name="y" value="26" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
-  </component>
-  <component name="ProjectId" id="1PlAcAAZ2MC3VLKh8bzmEEflkZe" />
+  <component name="ProjectId" id="1PlAgHHWvX21dp3EY5XDQ1da3ad" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566348941876" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -41,11 +36,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c82f42e-2bb8-4fda-b1a5-e72e2e9b3708" name="Default Changelist" comment="" />
-      <created>1566345271381</created>
+      <changelist id="b867c364-a29a-4da8-b33e-7d9fe4182ef1" name="Default Changelist" comment="" />
+      <created>1566438418570</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566345271381</updated>
+      <updated>1566438418570</updated>
     </task>
     <servers />
   </component>
@@ -59,21 +54,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

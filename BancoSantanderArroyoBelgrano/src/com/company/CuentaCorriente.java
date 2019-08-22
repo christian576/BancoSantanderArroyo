@@ -15,7 +15,7 @@ public class CuentaCorriente extends Cuenta {
     }
     public void extraer (double monto){
         if(monto<= getSaldo() + montoAutorizado){
-            saldoAFavor = saldoAFavor - monto - montoAutorizado
+            saldoAFavor = saldoAFavor - monto - montoAutorizado;
             super.extraer(monto);
             System.out.println("el saldo es superior al autorizado");
         }
